@@ -3,6 +3,8 @@
 /**
  * is_palindrome - checks if a string is a palindrome
  * @s: string to reverse
+ * @i: iterator
+ * @len: length of the string
  *
  * Return: 1 if it is, 0 it's not
  */
